@@ -21,7 +21,7 @@
 				<string>testing</string>
 			</array>
 			<key>description</key>
-			<string>Native Twitter client (was YoruFukurou).</string>
+			<string>NightOwl allows you to easily manage which of your Apps should stay light, while your system runs in Dark Mode.</string>
 			<key>developer</key>
 			<string>Benjamin Kramser</string>
 			<key>display_name</key>
